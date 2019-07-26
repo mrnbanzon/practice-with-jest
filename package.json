@@ -1,0 +1,23 @@
+{
+  "name": "practice-with-jest",
+  "version": "1.0.0",
+  "description": "This repository is used for practicing testing with Jest.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest ./tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrnbanzon/practice-with-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrnbanzon/practice-with-jest/issues"
+  },
+  "homepage": "https://github.com/mrnbanzon/practice-with-jest#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
